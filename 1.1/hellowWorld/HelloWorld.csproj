@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{5605902A-1F59-466C-A175-9EF9862BF700}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>_1._1_Hello_World_Program</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="hellowWorld\App.config" />
+    <None Include="hellowWorld\bin\Debug\hellowWorld.exe.config" />
+    <None Include="hellowWorld\bin\Debug\hellowWorld.vshost.exe.config" />
+    <None Include="hellowWorld\bin\Debug\hellowWorld.vshost.exe.manifest" />
+    <None Include="hellowWorld\bin\Release\hellowWorld.exe.config" />
+    <None Include="hellowWorld\bin\Release\hellowWorld.vshost.exe.config" />
+    <None Include="hellowWorld\bin\Release\hellowWorld.vshost.exe.manifest" />
+    <None Include="hellowWorld\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="hellowWorld\obj\Debug\hellowWorld.csprojResolveAssemblyReference.cache" />
+    <None Include="hellowWorld\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="hellowWorld\obj\Release\hellowWorld.csprojResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hellowWorld\bin\Debug\hellowWorld.exe" />
+    <Content Include="hellowWorld\bin\Debug\hellowWorld.pdb" />
+    <Content Include="hellowWorld\bin\Debug\hellowWorld.vshost.exe" />
+    <Content Include="hellowWorld\bin\Release\hellowWorld.exe" />
+    <Content Include="hellowWorld\bin\Release\hellowWorld.pdb" />
+    <Content Include="hellowWorld\bin\Release\hellowWorld.vshost.exe" />
+    <Content Include="hellowWorld\hellowWorld.csproj" />
+    <Content Include="hellowWorld\obj\Debug\hellowWorld.csproj.FileListAbsolute.txt" />
+    <Content Include="hellowWorld\obj\Debug\hellowWorld.exe" />
+    <Content Include="hellowWorld\obj\Debug\hellowWorld.pdb" />
+    <Content Include="hellowWorld\obj\Release\hellowWorld.csproj.FileListAbsolute.txt" />
+    <Content Include="hellowWorld\obj\Release\hellowWorld.exe" />
+    <Content Include="hellowWorld\obj\Release\hellowWorld.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="hellowWorld\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="hellowWorld\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="hellowWorld\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="hellowWorld\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="hellowWorld\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="hellowWorld\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="hellowWorld\Program.cs" />
+    <Compile Include="hellowWorld\Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\" />
+    <Folder Include="hellowWorld\obj\Debug\TempPE\" />
+    <Folder Include="hellowWorld\obj\Release\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

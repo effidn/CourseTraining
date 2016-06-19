@@ -1,0 +1,6 @@
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\bin\Debug\ConsoleApplication.exe
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\bin\Debug\ConsoleApplication.pdb
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\obj\x86\Debug\1.1 Hello World Program.csprojResolveAssemblyReference.cache
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\obj\x86\Debug\ConsoleApplication.pdb

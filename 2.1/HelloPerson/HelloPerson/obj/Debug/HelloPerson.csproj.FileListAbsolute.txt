@@ -1,0 +1,12 @@
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe.config
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\HelloPerson\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\HelloPerson\HelloPerson\bin\Debug\HelloPerson.pdb
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\HelloPerson\HelloPerson\obj\Debug\HelloPerson.exe
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\HelloPerson\HelloPerson\obj\Debug\HelloPerson.pdb
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.1\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe.config
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.1\HelloPerson\HelloPerson\obj\Debug\HelloPerson.exe
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.1\HelloPerson\HelloPerson\obj\Debug\HelloPerson.pdb
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.1\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.1\HelloPerson\HelloPerson\bin\Debug\HelloPerson.pdb
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.1\HelloPerson\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache

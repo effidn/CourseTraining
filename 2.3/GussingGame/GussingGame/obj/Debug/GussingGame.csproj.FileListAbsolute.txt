@@ -1,0 +1,6 @@
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\bin\Debug\GussingGame.exe.config
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\bin\Debug\GussingGame.exe
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\bin\Debug\GussingGame.pdb
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\obj\Debug\GussingGame.csprojResolveAssemblyReference.cache
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\obj\Debug\GussingGame.exe
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\obj\Debug\GussingGame.pdb

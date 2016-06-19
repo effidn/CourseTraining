@@ -1,0 +1,6 @@
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\hellowWorld\bin\Release\hellowWorld.exe.config
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\hellowWorld\bin\Release\hellowWorld.exe
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\hellowWorld\bin\Release\hellowWorld.pdb
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\hellowWorld\obj\Release\hellowWorld.csprojResolveAssemblyReference.cache
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\hellowWorld\obj\Release\hellowWorld.exe
+C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\hellowWorld\hellowWorld\obj\Release\hellowWorld.pdb

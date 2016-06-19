@@ -1,0 +1,6 @@
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
