@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{37331179-FC64-432C-8E45-1B19C70FEEF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{C05009FC-159A-49E5-8626-298BBC5EE405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,18 +17,12 @@ Global
 		{37331179-FC64-432C-8E45-1B19C70FEEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37331179-FC64-432C-8E45-1B19C70FEEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37331179-FC64-432C-8E45-1B19C70FEEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05009FC-159A-49E5-8626-298BBC5EE405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05009FC-159A-49E5-8626-298BBC5EE405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05009FC-159A-49E5-8626-298BBC5EE405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05009FC-159A-49E5-8626-298BBC5EE405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 1
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://efi-training.visualstudio.com/
-		SccProjectUniqueName0 = Calculator\\Calculator.csproj
-		SccProjectName0 = Calculator
-		SccAuxPath0 = https://efi-training.visualstudio.com
-		SccLocalPath0 = Calculator
-		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 	EndGlobalSection
 EndGlobal

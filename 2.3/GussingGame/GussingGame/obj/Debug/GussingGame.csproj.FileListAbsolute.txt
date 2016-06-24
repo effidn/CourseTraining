@@ -4,3 +4,9 @@ c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\G
 c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\obj\Debug\GussingGame.csprojResolveAssemblyReference.cache
 c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\obj\Debug\GussingGame.exe
 c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\GussingGame\GussingGame\obj\Debug\GussingGame.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.3\GussingGame\GussingGame\bin\Debug\GussingGame.exe.config
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.3\GussingGame\GussingGame\bin\Debug\GussingGame.exe
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.3\GussingGame\GussingGame\bin\Debug\GussingGame.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.3\GussingGame\GussingGame\obj\Debug\GussingGame.exe
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.3\GussingGame\GussingGame\obj\Debug\GussingGame.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.3\GussingGame\GussingGame\obj\Debug\GussingGame.csprojResolveAssemblyReference.cache
