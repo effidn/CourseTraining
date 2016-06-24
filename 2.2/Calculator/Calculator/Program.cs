@@ -7,46 +7,64 @@ namespace Calculator
         static void Main(string[] args)
         {
 
-            double num1 = 0;
-            double num2 = 0;
-            double result = 0;
-            string op = string.Empty;
+            double num1;
+            double num2;
+            float result;
+            string operand;
+            
 
             Console.WriteLine("Insert First Number");
-            var number1 = double.TryParse(Console.ReadLine(), out num1);
+            num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Insert Second Number");
-            var number2 = double.TryParse(Console.ReadLine(), out num2);
+            num2 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Enter An Operand For Calculation : '+'  '*'  '-'  '/' ");
-            op = Console.ReadLine();
+            operand = Console.ReadLine();
 
-            //Create an instance from CLass
-            CalcMeth calc = new CalcMeth();
+            switch (operand)
+            {
+                case "+":
+                {
+                    result = (float) (num1 + num2);
+                    Console.WriteLine(num1+ "+" +num2 + "=" + result);
+                    break;
+                }
 
-            if (op != "+" && op != "+" && op == "*" && op == "-")
-            {
-                if (op == "+")
+                case "*":
                 {
-                    result = calc.Add(num1, num2);
+                    result = (float) (num1 * num2);
+                    Console.WriteLine(num1+ "*" +num2+ "=" +result);
+                    break;
                 }
-                else if (op == "*")
+
+                case "-":
                 {
-                    result = calc.Multi(num1, num2);
+                    result = (float) (num1 - num2);
+                    Console.WriteLine(num1+ "-" +num2+ "=" + result);
+                        break;
                 }
-                else if (op == "-")
+
+                case "/":
                 {
-                    result = calc.Sub(num1, num2);
+                        if((Convert.ToInt32(num2)) == 0)
+                        {
+                            Console.WriteLine("Cannot Divide by Zero");
+                        }
+                        else
+                        {
+                            result = (float) (num1 / num2);
+                            result = (float) Math.Round(result,2);
+                            Console.WriteLine(num1 + "/" + num2 + "=" + result);
+                        }
+                        break;
                 }
-                else if (op == "/")
-                {
-                    result = calc.Divide(num1, num2);
-                }
-            }
-            else
-            {
-                Console.WriteLine("Inserted is not a valid operator");
-            }
+
+                default:
+                    Console.WriteLine("No Operand is selected");
+                    break;
+               }
+            Console.ReadLine();
         }
     }
 }

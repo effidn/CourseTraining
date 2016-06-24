@@ -6,43 +6,41 @@ namespace GussingGame
     {
         static void Main(string[] args)
         {
-            int random = new Random().Next(1, 100);
-            int uguess = 0;
-            int i = 0;
+            int secret = new Random().Next(1,100);
+            int num = secret;
+            int count = 0;
+            int guess = 0;
             bool value = false;
 
             Console.Write("The Guessing Number Game : \n");
-            Console.Write("Enter number between 1-100\n You have total 7 tries to Guess a number: \n");
+            Console.Write("You have total 7 tries to Guess a number: \n");
 
-            for (i = 1; i < 8; i++)
+            for (int i = 0; i < 7 ; i++)
             {
+                count=count+1;
+                Console.Write("Insert Guess Number " +count+" :");
+                value = int.TryParse(Console.ReadLine(), out guess);
 
-                Console.Write("Insert Guess Number " + i + " :");
-                value = int.TryParse(Console.ReadLine(), out uguess);
-
-                if (!value || uguess >= 1 && uguess <= 100)
+                if (!value || guess >=1&& guess <=100)
                 {
-                    if (uguess > random)
+                    if (guess  >num)
                     {
-                        Console.Write("Your Guess is too big, the number is " + random + "\n");
+                        Console.Write("Your Guess is too big, the number is " + num+ "\n");
                     }
-                    else if (uguess < random)
-                    {
-                        Console.Write("Your Guess is too small, the number is " + random + "\n");
-                    }
-                    else if (uguess == random)
-                    {
-                        Console.Write("Excellent you guessed the number" + random + "\n");
-                        Console.Write("Number of tries is " + i);
-                        break;
-                    }
+                    else if (guess < num)
+                         {
+                             Console.Write("Your Guess is too small, the number is " + num+ "\n");
+                         }
+                         else if(guess == num)
+                         {
+                             Console.Write("Excellent you guessed the number" +num+ "\n");
+                             Console.Write("Number of tries are -" + count);
+                             break;
+                         }
                 }
             }
+            Console.ReadLine();
 
-            if (i==8)
-            {
-                Console.WriteLine("You tried to guess 7 times and failed \n");
-            }
         }
     }
 }

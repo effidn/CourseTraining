@@ -4,9 +4,3 @@ c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Ca
 c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\effi diner nahcmani\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
-C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.2\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.2\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.2\Calculator\Calculator\obj\Debug\Calculator.pdb
-C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.2\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.2\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.2\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
