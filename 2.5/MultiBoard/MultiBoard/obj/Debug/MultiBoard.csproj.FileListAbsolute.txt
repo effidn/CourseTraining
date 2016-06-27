@@ -4,3 +4,9 @@ C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.5\MultiBoar
 C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.5\MultiBoard\MultiBoard\obj\Debug\MultiBoard.csprojResolveAssemblyReference.cache
 C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.5\MultiBoard\MultiBoard\obj\Debug\MultiBoard.exe
 C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\2.5\MultiBoard\MultiBoard\obj\Debug\MultiBoard.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.5\MultiBoard\MultiBoard\bin\Debug\MultiBoard.exe.config
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.5\MultiBoard\MultiBoard\obj\Debug\MultiBoard.exe
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.5\MultiBoard\MultiBoard\obj\Debug\MultiBoard.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.5\MultiBoard\MultiBoard\bin\Debug\MultiBoard.exe
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.5\MultiBoard\MultiBoard\bin\Debug\MultiBoard.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\2.5\MultiBoard\MultiBoard\obj\Debug\MultiBoard.csprojResolveAssemblyReference.cache

@@ -4,3 +4,6 @@ C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\4.1\Strings\S
 C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\4.1\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
 C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\4.1\Strings\Strings\obj\Debug\Strings.exe
 C:\Users\Effi Diner Nahcmani\Documents\Visual Studio 2015\Projects\4.1\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\4.1\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\4.1\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Effi Diner Nahcmani\Source\Course Training\CourseTraining\4.1\Strings\Strings\obj\Debug\Strings.pdb

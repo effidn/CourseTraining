@@ -13,8 +13,8 @@ namespace MultiBoard
             {
                 for (y = 1; y <= 10; y++)
                 {
-                    Console.Write(x * y);
-                    Console.Write(" ");
+                    Console.WriteLine(x*y);
+                    Console.WriteLine(" ");
                 }
                 Console.WriteLine();
             }
